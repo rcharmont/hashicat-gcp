@@ -1,6 +1,6 @@
 module "network" {
   source  = "app.terraform.io/rcharmont-training/network/google"
-  version = "3.2.0"
+  version = "2.5.0"
   network_name = "rcharmont-network"
   project_id = var.project
   # insert required variables here
