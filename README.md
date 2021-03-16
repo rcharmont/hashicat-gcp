@@ -1,4 +1,4 @@
-# hashicat-gcp fork
+# hashicat-gcp fork - lock on 20200316
 HashiCat: A Terraform built application for use in HashiCorp workshops
 
 Includes "Meow World" website.
